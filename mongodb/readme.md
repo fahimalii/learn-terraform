@@ -1,6 +1,6 @@
 # How to run
 
-First ensure you have `terraform` installed in your machine and the path is set properly to the executable. [Install Terraform]("https://developer.hashicorp.com/terraform/tutorials/docker-get-started/install-cli")
+First ensure you have `terraform` installed in your machine and the path is set properly to the executable. [Install Terraform](https://developer.hashicorp.com/terraform/tutorials/docker-get-started/install-cli)
 
 Then ensure that you are in the `mongodb` folder in your terminal and run the following commands.
 
